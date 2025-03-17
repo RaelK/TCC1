@@ -1,6 +1,4 @@
-# Previsão de Sucesso de Atletas Jovens de Futebol usando
-
-# Integração de diferentes Base de Dados 
+# Previsão de Sucesso de Atletas Jovens de Futebol usando Integração de diferentes Base de Dados 
 
 Calmon, Lucas; Ferro, Rodrigo; Pereira, Carlos; Souza, Caio; Giusti, Lucas; Amorim, Glauco; Ogasawara, Eduardo. "Previsão de Sucesso de Atletas Jovens de Futebol usando Integração de diferentes Base de Dados" in *Anais do XXXIX Simpósio Brasileiro de Bancos de Dados (SBBD 2024\)*, 2024.doi: [10.5753/sbbd.2024.243187](https://doi.org/10.5753/sbbd.2024.243187)
 

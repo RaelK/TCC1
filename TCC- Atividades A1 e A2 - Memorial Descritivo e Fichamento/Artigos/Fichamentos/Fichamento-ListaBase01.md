@@ -1,7 +1,5 @@
 # An Empirical Study on Quality Issues of eBay’s Big Data SQL Analytics Platform
 
- 
-
 Zhu, Feng; Xu, Lijie; Ma, Gang; Ji, Shuping; Wang, Jie; Wang, Gang; Zhang, Hongyi; Wan, Kun; Wang, Mingming; Zhang, Xingchao; Wang, Yuming; Li, Jingpin. "An empirical study on quality issues of eBay's big data SQL analytics platform" in *Proceedings of the 44th International Conference on Software Engineering (ICSE-SEIP '22)*, pp. 33-42, 2022\. doi: [10.1145/3510457.3513034](https://doi.org/10.1145/3510457.3513034)
 
 ## 1\. Fichamento de Conteúdo

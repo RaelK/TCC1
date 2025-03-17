@@ -1,6 +1,4 @@
-# Caracterização de Estratégias de Futebol com base na
-
-# Frequência, Importância e Efetividade de Jogadas 
+# Caracterização de Estratégias de Futebol com base na Frequência, Importância e Efetividade de Jogadas 
 
 Valadao, Gabriel; Gonçalves, João L. L.; Megale, João L. L.; Paula, Vinicius M.; Rios-Neto, Hugo; Pereira, Adriano C. M.; Meira Jr., Wagner. "Caracterização de Estratégias de Futebol com base na Frequência, Importância e Efetividade de Jogadas" in *Anais do XX Encontro Nacional de Inteligência Artificial e Computacional (ENIAC 2023\)*, 2023\. doi: [10.5753/eniac.2023.234936](https://doi.org/10.5753/eniac.2023.234936)
 
