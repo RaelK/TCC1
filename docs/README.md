@@ -123,11 +123,15 @@ _
 
 ### 3.1. Análise da situação atual
 
-_Apresente uma descrição textual de como os sistemas atuais resolvem o problema que se propõe a resolver.  Caso sua proposta seja inovadora e não existam processos claramente definidos, **apresente como as tarefas que o seu sistema pretende implementar são executadas atualmente**, mesmo que não se utilize tecnologia computacional._
+Atualmente, locadoras de pequeno e médio porte operam com processos manuais e descentralizados. A verificação de disponibilidade de veículos é feita por planilhas físicas ou registros em papel, o que gera inconsistências e atrasos. O cadastro de clientes exige validação manual de documentos, aumentando o risco de erros. Contratos são impressos e assinados presencialmente, dificultando a recuperação de dados históricos. Já a gestão da frota, incluindo manutenção, ocorre em registros isolados, prejudicando o controle e elevando custos.
+
+O estudo Car Rental Service [1.2] destaca que a digitalização desses processos pode melhorar significativamente a eficiência operacional, reduzindo falhas humanas e otimizando o tempo de resposta ao cliente. A falta de integração nos sistemas atuais reforça a necessidade de uma solução tecnológica para modernizar o setor.
 
 ### 3.2. Descrição geral da proposta de solução
 
-_Apresente aqui uma descrição da sua proposta abordando seus limites e suas ligações com as estratégias e objetivos do negócio. Apresente aqui as oportunidades de melhorias._
+A Loccar propõe uma plataforma centralizada que automatiza processos essenciais das locadoras, otimizando operações e reduzindo custos. A solução integra gestão da frota, cadastro de clientes, locação e avaliação pós-devolução em um ambiente digital. A disponibilidade de veículos será atualizada em tempo real, contratos poderão ser assinados eletronicamente e alertas automatizados garantirão a manutenção preventiva.
+
+Com a automação desses processos, espera-se uma redução significativa nos erros operacionais e no tempo dedicado a tarefas burocráticas. Além disso, a digitalização melhora a transparência e a experiência do cliente, consolidando a empresa no mercado competitivo.
 
 ### 3.3. Modelagem dos processos
 
